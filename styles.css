@@ -569,6 +569,10 @@ nav button:hover {
     cursor: pointer;
 }
 
+input:focus {
+    background-color: yellow;
+}
+
 /* FOOTER SECTION */
 
 footer {
