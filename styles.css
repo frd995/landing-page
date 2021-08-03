@@ -199,6 +199,18 @@ nav button:hover {
     letter-spacing: 0.3px;
 }
 
+.left-text-link {
+    color: rgba(237, 76, 92, 1);
+    font-size: 14px;
+    position: relative;
+    top: 30px;
+    text-decoration: none;
+}
+
+.left-text-link:hover {
+    text-decoration: underline;
+}
+
 .right-video {
     margin-top: 94px;
     margin-left: 92px;
